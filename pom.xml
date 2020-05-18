@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mx</groupId>
-    <artifactId>java8-project-template</artifactId>
+    <artifactId>java10-features</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>java8-project-template</name>
+    <name>java10-features</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -32,7 +32,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>JGit</finalName>
+        <finalName>java10-features</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

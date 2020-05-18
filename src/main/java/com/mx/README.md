@@ -1,2 +1,1 @@
-# Java8 in action.
-Multiple examples based on Java 8.
+# Java 10 new Features
